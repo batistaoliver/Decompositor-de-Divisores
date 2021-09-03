@@ -1,0 +1,4 @@
+C:\Users\techway.antonio\Documents\Projects\decomposeDividers\WebServiceDividers\bin\WebServiceDividers.dll
+C:\Users\techway.antonio\Documents\Projects\decomposeDividers\WebServiceDividers\bin\WebServiceDividers.pdb
+C:\Users\techway.antonio\Documents\Projects\decomposeDividers\WebServiceDividers\obj\Debug\WebServiceDividers.dll
+C:\Users\techway.antonio\Documents\Projects\decomposeDividers\WebServiceDividers\obj\Debug\WebServiceDividers.pdb

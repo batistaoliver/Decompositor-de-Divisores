@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "decomposeDividers", "decomposeDividers\decomposeDividers.csproj", "{ED4D818A-43B3-4F3F-BCBC-1CEFE0751C10}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2CD71410-0DAD-412D-B20C-DE7B6643B534} = {2CD71410-0DAD-412D-B20C-DE7B6643B534}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServiceDividers", "WebServiceDividers\WebServiceDividers.csproj", "{2CD71410-0DAD-412D-B20C-DE7B6643B534}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED4D818A-43B3-4F3F-BCBC-1CEFE0751C10}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{ED4D818A-43B3-4F3F-BCBC-1CEFE0751C10}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{ED4D818A-43B3-4F3F-BCBC-1CEFE0751C10}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{ED4D818A-43B3-4F3F-BCBC-1CEFE0751C10}.Debug|x86.ActiveCfg = Debug|x86
+		{ED4D818A-43B3-4F3F-BCBC-1CEFE0751C10}.Debug|x86.Build.0 = Debug|x86
+		{ED4D818A-43B3-4F3F-BCBC-1CEFE0751C10}.Release|Any CPU.ActiveCfg = Release|x86
+		{ED4D818A-43B3-4F3F-BCBC-1CEFE0751C10}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{ED4D818A-43B3-4F3F-BCBC-1CEFE0751C10}.Release|Mixed Platforms.Build.0 = Release|x86
+		{ED4D818A-43B3-4F3F-BCBC-1CEFE0751C10}.Release|x86.ActiveCfg = Release|x86
+		{ED4D818A-43B3-4F3F-BCBC-1CEFE0751C10}.Release|x86.Build.0 = Release|x86
+		{2CD71410-0DAD-412D-B20C-DE7B6643B534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CD71410-0DAD-412D-B20C-DE7B6643B534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CD71410-0DAD-412D-B20C-DE7B6643B534}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{2CD71410-0DAD-412D-B20C-DE7B6643B534}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{2CD71410-0DAD-412D-B20C-DE7B6643B534}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2CD71410-0DAD-412D-B20C-DE7B6643B534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CD71410-0DAD-412D-B20C-DE7B6643B534}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CD71410-0DAD-412D-B20C-DE7B6643B534}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{2CD71410-0DAD-412D-B20C-DE7B6643B534}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{2CD71410-0DAD-412D-B20C-DE7B6643B534}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
